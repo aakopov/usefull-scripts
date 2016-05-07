@@ -1,3 +1,9 @@
+usefull-scripts (0.0.3) unstable; urgency=low
+
+  * Add link to bootstrap and font-awesome to index.html
+
+ -- Alexander Akopov <akopov.alexander@gmail.com>  Sat, 08 May 2016 02:23:07 +0300
+
 usefull-scripts (0.0.2) unstable; urgency=low
 
   * Adding make angular 2 project with bootstrap and font-awesome
