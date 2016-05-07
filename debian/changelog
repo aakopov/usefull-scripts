@@ -1,3 +1,9 @@
+usefull-scripts (0.0.2) unstable; urgency=low
+
+  * Adding make angular 2 project with bootstrap and font-awesome
+
+ -- Alexander Akopov <akopov.alexander@gmail.com>  Sat, 07 May 2016 21:09:53 +0300
+
 usefull-scripts (0.0.1) unstable; urgency=low
 
   * Initial Release.
