@@ -3,6 +3,6 @@ APP_NAME=$1
 APP_VERSION=$2
 mkdir $APP_NAME
 cd $APP_NAME
-cp -rv `dirname $0`/skel/* ./
+cp -rv /opt/usefull-scripts/makeangular2project/skel/* ./
 sed -i "s/NAME/$APP_NAME/g" package.json
 sed -i "s/VERSION/$APP_VERSION/g" package.json
