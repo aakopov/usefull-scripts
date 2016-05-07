@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Alexander Akopov <akopov.alexander@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/usefull-scripts.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/usefull-scripts.git;a=summary
+Homepage: https://github.com/aakopov/usefull-scripts
+Vcs-Git: git@github.com:aakopov/usefull-scripts.git
+Vcs-Browser: https://github.com/aakopov/usefull-scripts
 
 Package: usefull-scripts
 Architecture: any
